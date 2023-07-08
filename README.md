@@ -18,15 +18,15 @@ To run the Tic Tac Toe game, you need to have the following prerequisites instal
 
 1. Build and run the project to start the game.
 2. The game will display a 3x3 grid on the screen.
-3. Player will be assigned the symbol 'X' and Player 2 will be assigned the symbol 'O'.
-4. Players will take turns selecting an empty space on the grid to mark with their symbol.
+3. Player will be assigned the symbol 'X' and CPU will be assigned the symbol 'O'.
+4. Player will take turns selecting an empty space on the grid to mark with their symbol.
 5. The game will automatically determine the winner or declare a draw when there are three symbols of the same kind in a row, or when all spaces on the grid have been filled.
 6. At the end of the game, a dialog box will appear asking if you want to play again. You can choose to start a new game or exit the application.
 
 ## File Structure
 
 - `Program.cs`: Contains the main entry point of the application.
-- `GameBoard.cs`: Represents the game board and handles the logic for checking the winner.
+- `Form1.cs`: Represents the game board and handles the logic for checking the winner.
 - `Player.cs`: Represents a player and stores their symbol and turn.
 - `GameForm.cs`: The main form of the application, handles user input and updates the UI.
 
