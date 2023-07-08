@@ -27,8 +27,7 @@ To run the Tic Tac Toe game, you need to have the following prerequisites instal
 
 - `Program.cs`: Contains the main entry point of the application.
 - `Form1.cs`: Represents the game board and handles the logic for checking the winner.
-- `Form1.Designer.cs`: The main form of the application, handles user input and updates the UI.
-
+- 
 ## Contributing
 
 Contributions to this Tic Tac Toe game are welcome. If you find any bugs or have suggestions for improvements, feel free to submit an issue or pull request.
